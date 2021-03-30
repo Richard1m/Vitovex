@@ -138,3 +138,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://vitovex-2bb5b.netlify.app'
